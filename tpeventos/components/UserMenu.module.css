@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .username {
+    margin-right: 0.5rem;
+    font-weight: 500;
+  }
+  
+  .logoutButton {
+    color: #374151;
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 0.875rem;
+  }
+  
+  .logoutButton:hover {
+    color: #111827;
+  }
